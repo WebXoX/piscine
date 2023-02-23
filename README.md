@@ -1,6 +1,5 @@
 # piscine
-![42piscine](https://user-images.githubusercontent.com/97600250/220990192-f051df39-c3fb-47dd-aedc-c7e9c041563d.png)
-
+<img src="https://user-images.githubusercontent.com/97600250/220990192-f051df39-c3fb-47dd-aedc-c7e9c041563d.png" alt="drawing" style="height:500px;"/>
 42 piscine, how far I got in the projects
 
 some silly mistakes not corrected(_MEMORY_OF_PAST_)
